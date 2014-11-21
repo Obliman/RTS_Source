@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BlockScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\BlockScript.cs" Line="7" Column="10" />
-      <File FileName="..\..\2D_Phys_Game\Assets\Scripts\InGameGUI.cs" Line="91" Column="17" />
-      <File FileName="Assets\Scripts\InGameGUI.cs" Line="54" Column="6" />
-      <File FileName="Assets\Scripts\GhostBlock.cs" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\BlockScript.cs" Line="22" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
